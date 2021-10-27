@@ -35,13 +35,13 @@ _**É por isso que continuo praticando! **_
 * **Exercício 13** – Reajuste Salarial
 * **Exercício 14** – Conversor de Temperaturas
 * **Exercício 15** – Aluguel de Carros
-* **Exercício 16**– Parte inteira de um número
+* **Exercício 16** – Parte inteira de um número
 * **Exercício 17** – Catetos e Hipotenusa
 * **Exercício 18** – Seno, Cosseno e Tangente
 * **Exercício 19** – Sorteando um item na lista
 * **Exercício 20** – Sorteando uma ordem na lista
 * **Exercício 21** – Tocando um MP3
-* **Exercício 22**– Analisador de Textos
+* **Exercício 22** – Analisador de Textos
 * **Exercício 23** – Separando dígitos de um número(unidade, dezena, centena, milhar)
 * **Exercício 24** – Verificando as primeiras letras de um texto
 * **Exercício 25** – Procurando uma string dentro de outra
@@ -77,7 +77,7 @@ _**É por isso que continuo praticando! **_
 * **Exercício 57** – Validação de Dados
 * **Exercício 58** – Jogo da Adivinhação v2.0
 * **Exercício 59** – Criando um Menu de Opções
-* **Exercício 60**– Cálculo do Fatorial
+* **Exercício 60** – Cálculo do Fatorial
 * **Exercício 61** – Progressão Aritmética v2.0
 * **Exercício 62** – Super Progressão Aritmética v3.0
 * **Exercício 63** – Sequência de Fibonacci v1.0
@@ -124,9 +124,9 @@ _**É por isso que continuo praticando! **_
 * **Exercício 104** – Validando entrada de dados em Python
 * **Exercício 105** – Analisando e gerando Dicionários
 * **Exercício 106** – Interactive helping system in Python
-* **Exercício 107**– Exercitando módulos em Python
+* **Exercício 107** – Exercitando módulos em Python
 * **Exercício 108** – Formatando Moedas em Python
-* **Exercício 109**– Formatando Moedas em Python
+* **Exercício 109** – Formatando Moedas em Python
 * **Exercício 111** – Transformando módulos em pacotes
 * **Exercício 112** – Entrada de dados monetários
 * **Exercício 113** – Funções aprofundadas em Python
