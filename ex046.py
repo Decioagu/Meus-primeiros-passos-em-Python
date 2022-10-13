@@ -26,6 +26,6 @@ print('   {}Papapa...{}'.format(azul, limpa))
 print('    {}Papapapa....{}'.format(roxo, limpa))
 sleep(2)
 print('     {}Boooooooom....{}'.format(vermelho, limpa))
-sleep(1)
+sleep(3)
 print('      {}Rojão 13 tiros...'.upper().format(ciano))
 
