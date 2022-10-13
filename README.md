@@ -10,14 +10,9 @@ E o melhor de tudo é que o **curso é 100% gratuito**, com opcional de **pagame
 
 **A melhor forma de aprender é praticar, praticar e praticar...**
 
-_**É por isso que continuo praticando! **_
+_**É por isso que continuo praticando!**_
 
 ***
-
-**Estarei disponibilizados os códigos aos poucos...** 
-
----
-
 ### Lista de exercícios:
 
 * **Exercício 1** – 'Ola, Mundo!'
