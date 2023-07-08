@@ -4,7 +4,7 @@ Segue abaixo uma lista de exercício proposta pelo **Curso em Vídeo**.
 
 Esses exercícios representam minha evolução na linguagem **_Python_**. Apesar desse não ser meu primeiro contato com linguagem de programação, posso lhes garantir que essa foi a melhor experiência que já tive em aprendizado em uma linguagem de programação, recomendo fortemente pela qualidade, simplicidade e conhecimento adquirido. Um excelente começo para programadores sem experiência, que assim como eu desejam aprender e aprimorar a lógica em programação. 
 
-Clique no link: [Curso em Vídeo](https://www.cursoemvideo.com/) . 
+Clique no link: [Curso em Vídeo](https://www.cursoemvideo.com/cursos/) . 
 
 E o melhor de tudo é que o **curso é 100% gratuito**, com opcional de **pagamento apenas no certificado**.
 
